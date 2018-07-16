@@ -1,0 +1,29 @@
+<template>
+  <section>
+    <img src="/logo.png" >
+    <h2 class="title">
+          Global Expert Network
+        </h2>
+  </section>
+</template>
+<style scoped>
+
+.title {
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  display: block;
+  font-weight: 200;
+  font-size: 48px;
+  color: #35495e;
+  letter-spacing: 2px;
+  padding-top: 2rem;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 42px;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
+
+</style>
